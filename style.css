@@ -1,0 +1,12 @@
+body {
+  background-color: #343a40;
+}
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 800px;
+  border: 30px solid #868e96;
+  border-radius: 5px;
+  margin: 200px auto;
+  background-color: #dee2e6;
+}
