@@ -10,7 +10,7 @@ This simple web application allows you to draw colorful sketches by hovering you
 
 ## How to Use
 
-1. Visit the [Etch-a-Sketch GitHub Page](https://github.com/amswdeveloper/Etch-a-Sketch) in your web browser.
+1. Visit the [Etch-a-Sketch GitHub Page](https://amswdeveloper.github.io/Etch-a-Sketch/) in your web browser.
 2. The initial grid size is set to 4 squares per side.
 3. Hover over the squares to draw, and enjoy the pixelated trail effect.
 4. To change the grid size, click the "Enter No of box" button, enter a number between 1 and 100 in the prompt, and see the grid update accordingly.
