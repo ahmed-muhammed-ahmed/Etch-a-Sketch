@@ -26,6 +26,8 @@ body {
 
 .btn {
   padding: 16px 20px;
+  font-size: 20px;
+  color: #eee;
   border: none;
   width: 200px;
   border-radius: 5px;
